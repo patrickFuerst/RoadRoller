@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" width="240"
+height="320" viewbox="0 0 240 320">
+	<!-- Kommentar -->
+	<title>Road Roller Menu</title>
+	<desc>Steam Roller Menu SVG</desc>
+		
+		<rect id="menu_rect" x="0" y="0" width="150" height="30" fill="#E0E0E0" stroke="black">
+			<animateTransform id ="NewGame" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 0" fill="freeze"/>
+			<animateTransform id ="HighScore" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 30" fill="freeze"/>
+			<animateTransform id ="Help" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 60" fill="freeze"/>
+			<animateTransform id ="Exit" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 90" fill="freeze"/>
+		</rect>
+		<text id="menu_text_newGame"  x="5" y="25" font-size="20" fill="red">
+			new Game
+		</text>
+		<text id="menu_text_highScore"  x="5" y="55" font-size="20" fill="red">
+			HighScore
+		</text>
+		<text id="menu_text_Help"  x="5" y="85" font-size="20" fill="red">
+			Help
+		</text>
+		<text id="menu_text_Exit"  x="5" y="115" font-size="20" fill="red">
+			Exit
+		</text>
+</svg>

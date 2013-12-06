@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" width="240"
+height="320" viewbox="0 0 240 320">
+	<!-- Kommentar -->
+	<title>Road Roller Menu</title>
+	<desc>Steam Roller Menu SVG</desc>
+		<rect id="box" x="0" y ="0" width="240" height="320" stroke="black">
+		</rect>
+		<text id="title" x="120" y="40" font-family="sans-serif" font-size="30" text-anchor="middle" fill="red">
+			ROAD ROLLER
+		</text>
+		
+		<rect id="menu_selection_rect" x="40" y="80" width="160" height="30" fill="#E0E0E0" stroke="black">
+			<animateTransform id ="pos0" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 0" fill="freeze"/>
+			<animateTransform id ="pos1" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 40" fill="freeze"/>
+			<animateTransform id ="pos2" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 80" fill="freeze"/>
+			<animateTransform id ="pos3" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 120" fill="freeze"/>
+			<animateTransform id ="pos4" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 160" fill="freeze"/>
+			<animateTransform id ="pos5" attributeName="transform" type="translate" begin="0s" dur="200ms" to="0 200" fill="freeze"/>
+		</rect>
+		
+		<text id="menu_text_pos0"  x="120" y="100" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			resume Game
+		</text>
+		<text id="menu_text_pos1"  x="120" y="140" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			new Game
+		</text>
+		<text id="menu_text_pos2"  x="120" y="180" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			HighScore
+		</text>
+		<text id="menu_text_pos3"  x="120" y="220" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			Help
+		</text>
+		<text id="menu_text_pos4"  x="120" y="260" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			Music
+		</text>
+		<text id="menu_text_pos5"  x="120" y="300" font-family="sans-serif" font-size="20" text-anchor="middle" fill="red">
+			Exit
+		</text>
+</svg>

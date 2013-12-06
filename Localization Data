@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locales default-locale="en-US" destination="res/global" package="roadroller.helper">
+   <locale country="US" language="en">
+      <entry key="newGame" value="New Game"/>
+      <entry key="resumeGame" value="resume"/>
+      <entry key="highscores" value="Highscores"/>
+      <entry key="help" value="Help"/>
+      <entry key="musicOn" value="Turn Music On"/>
+      <entry key="musicOff" value="Turn Music Off"/>
+      <entry key="exit" value="Exit"/>
+      <entry key="helpLine1" value="Control the steamroller using"/>
+      <entry key="helpLine2" value="the left/right keys on your phone."/>
+      <entry key="helpLine3" value="Crash objects to score points."/>
+      <entry key="helpLine4" value="Collect powerups to"/>
+      <entry key="helpLine5" value="increase/decrease speed"/>
+      <entry key="helpLine6" value="or fuelup/drain fuel"/>
+      <entry key="helpLine7" value="The game is over"/>
+      <entry key="helpLine8" value="once you run out of fuel."/>
+      <entry key="helpLine9" value="Keep rolling!"/>
+   </locale>
+   <locale country="AT" language="de">
+      <entry key="newGame" value="Neues Spiel"/>
+      <entry key="resumeGame" value="fortsetzen"/>
+      <entry key="highscores" value="Highscores"/>
+      <entry key="help" value="Hilfe"/>
+      <entry key="musicOn" value="Musik ein"/>
+      <entry key="musicOff" value="Musik aus"/>
+      <entry key="exit" value="Beenden"/>
+      <entry key="helpLine1" value="Steuere die dampfwalze mittels"/>
+      <entry key="helpLine2" value="links/rechts tasten des Telefons."/>
+      <entry key="helpLine3" value="Rolle ueber dinge um punkte"/>
+      <entry key="helpLine4" value="zu sammeln. Sammle powerups"/>
+      <entry key="helpLine5" value="um die geschwindigkeit zu"/>
+      <entry key="helpLine6" value="erhoehen/reduzieren oder"/>
+      <entry key="helpLine8" value="Das spiel endet sobald"/>
+      <entry key="helpLine7" value="den tank zu fuellen/leeren."/>
+      <entry key="helpLine9" value="der tank leer ist."/>
+   </locale>
+</locales>

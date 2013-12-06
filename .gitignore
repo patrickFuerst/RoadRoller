@@ -1,0 +1,17 @@
+.svn/
+.metadata/
+.classpath
+bin/
+deployed/
+intern/
+.mtj
+
+*.jad
+
+.project
+
+*.prefs
+
+*.properties
+
+*.jar

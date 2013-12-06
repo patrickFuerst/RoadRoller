@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" width="240"
+height="320" viewbox="0 0 240 320">
+	<!-- Kommentar -->
+	<title>Road Roller HelpScreen</title>
+	<desc>Steam Roller Menu SVG</desc>
+		<rect id="box" x="0" y ="0" width="240" height="320" stroke="black">
+		</rect>
+		<text id="title" x="120" y="40" font-family="sans-serif" font-size="30" text-anchor="middle" fill="red">
+			HELP
+		</text>
+		<text id="line1" x="120" y="80" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			Control the steamroller using
+		</text>
+		<text id="line2" x="120" y="100" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			the left/right keys on your phone.
+		</text>
+		<text id="line3" x="120" y="120" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			Crash objects to score points.
+		</text>
+		<text id="line4" x="120" y="140" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			Collect powerups to  
+		</text>
+		<text id="line5" x="120" y="160" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			increase/decrease speed
+		</text>
+		<text id="line6" x="120" y="180" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			or fuelup/drain fuel.
+		</text>
+		<text id="line7" x="120" y="200" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			The game is over
+		</text>
+		<text id="line8" x="120" y="220" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			once you run out of fuel.
+		</text>
+		<text id="line9" x="120" y="240" font-family="sans-serif" font-size="14" text-anchor="middle" fill="red">
+			Roll on!
+		</text>
+</svg>
